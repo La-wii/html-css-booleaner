@@ -89,8 +89,8 @@ td {
     padding: 10px;
     background-image: url(../img/monitor.jpg);
     background-size: cover;
-    width: 300px;
-    height: 300px;
+    width: 280px;
+    height: 280px;
     display: inline-block;
     text-align: center;
 }
@@ -99,11 +99,23 @@ td {
     padding: 10px;
     background-image: url(../img/graph.jpg);
     background-size: cover;
-    width: 300px;
-    height: 300px;
+    width: 280px;
+    height: 280px;
     display: inline-block;
     text-align: center;
 }
+
+.monitor:hover {
+    opacity: 75%;
+    border: 5px solid rgb(78, 160, 255);  
+}
+
+.graph:hover {
+    opacity: 75%; 
+    border: 5px solid rgb(78, 160, 255);  
+}
+
+
 /* fine sezione immagini */
 
 /* fine sezione potrebbero interessarti */
