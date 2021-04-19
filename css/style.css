@@ -1,0 +1,33 @@
+/* inizio header */
+header {
+    background-color: cornflowerblue;
+    background-image: url(../img/pattern.png);
+}
+
+#logo {
+    width: 150px;   
+    padding-left: 10px;
+    padding-top: 50px;
+}
+/* fine header */
+
+/* inizio main */
+
+/* inizio sezione titolo autore data */
+h1 {
+    font-size: 40px;
+}
+
+.autore {
+    color: gray;
+}
+
+.booleaner {
+    color: cornflowerblue;
+}
+
+.data {
+    color: gray;
+    font-size: 12px;
+}
+/* fine sezione titolo autore data */
