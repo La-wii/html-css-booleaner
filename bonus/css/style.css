@@ -76,13 +76,14 @@ td {
 .gray {
     color: gray;
 }
-
+/* inizio sezione immagini */
 .monitor {
     color: white;
     padding: 10px;
     background-image: url(../img/monitor.jpg);
     width: 250px;
     height: 200px;
+    display: inline-block;
 }
 .graph {
     color: white;
@@ -90,5 +91,8 @@ td {
     background-image: url(../img/graph.jpg);
     width: 250px;
     height: 200px;
+    display: inline-block;
 }
+/* fine sezione immagini */
+
 /* fine sezione potrebbero interessarti */
