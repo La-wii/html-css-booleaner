@@ -51,3 +51,8 @@ thead {
     background-color: rgb(177, 229, 242);
     width: 40%;
 }
+/* fine tabella */
+
+.evidenziato {
+    background-color: yellow;
+}
