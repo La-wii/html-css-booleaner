@@ -31,8 +31,22 @@ h1 {
     font-size: 12px;
 }
 /* fine sezione titolo autore data */
+
 /* inizio sezione info foto */
 .info-foto {
     font-size: 10px;
 }
 /* fine sezione info foto */
+
+/* inizio tabella */
+table {
+    width: 100%;
+    text-align: left;
+}
+thead {
+    background-color: rgb(32, 169, 229);
+}
+.light-blue {
+    background-color: rgb(177, 229, 242);
+    width: 40%;
+}
