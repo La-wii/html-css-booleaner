@@ -38,6 +38,10 @@ h1 {
 }
 /* fine sezione info foto */
 
+.evidenziato {
+    background-color: yellow;
+}
+
 /* inizio tabella */
 table {
     border-collapse: collapse;
@@ -61,9 +65,6 @@ td {
 /* fine tabella */
 
 /* inizio sezione potrebbero interessarti */
-.evidenziato {
-    background-color: yellow;
-}
 
 .gray {
     color: gray;
