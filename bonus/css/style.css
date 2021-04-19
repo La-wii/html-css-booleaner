@@ -77,6 +77,11 @@ td {
     color: gray;
 }
 /* inizio sezione immagini */
+.immagini-interessanti {
+    width: 60%;
+    margin: auto;
+}
+
 .monitor {
     color: white;
     padding: 10px;
