@@ -45,6 +45,7 @@ table {
 }
 thead {
     background-color: rgb(32, 169, 229);
+    color: white;
 }
 .light-blue {
     background-color: rgb(177, 229, 242);
