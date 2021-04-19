@@ -1,0 +1,93 @@
+
+/* inizio header */
+header {
+    background-color:rgb(78, 160, 255);
+    background-image: url(../img/pattern.png);
+}
+
+#logo {
+    width: 150px;   
+    padding-left: 10px;
+    padding-top: 50px;
+}
+/* fine header */
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+/* inizio main */
+
+/* inizio sezione titolo autore data */
+h1 {
+    font-size: 50px;
+}
+
+.autore {
+    color: gray;
+}
+
+.booleaner {
+    color: cornflowerblue;
+}
+
+.data {
+    color: gray;
+    font-size: 12px;
+}
+/* fine sezione titolo autore data */
+
+/* inizio sezione info foto */
+.info-foto {
+    font-size: 10px;
+}
+/* fine sezione info foto */
+
+.evidenziato {
+    background-color: yellow;
+}
+
+/* inizio tabella */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: left;
+}
+thead {
+    background-color: rgb(32, 169, 229);
+    color: white;
+}
+.light-blue {
+    background-color: rgb(177, 229, 242);
+    width: 40%;
+}
+td {
+    width: 25%;
+}
+.quaranta {
+    width: 40%;
+}
+/* fine tabella */
+
+/* inizio sezione potrebbero interessarti */
+
+.gray {
+    color: gray;
+}
+
+.monitor {
+    color: white;
+    padding: 10px;
+    background-image: url(../img/monitor.jpg);
+    width: 250px;
+    height: 200px;
+}
+.graph {
+    color: white;
+    padding: 10px;
+    background-image: url(../img/graph.jpg);
+    width: 250px;
+    height: 200px;
+}
+/* fine sezione potrebbero interessarti */
