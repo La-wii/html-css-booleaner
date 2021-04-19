@@ -52,6 +52,12 @@ thead {
     background-color: rgb(177, 229, 242);
     width: 40%;
 }
+td {
+    width: 25%;
+}
+.quaranta {
+    width: 40%;
+}
 /* fine tabella */
 
 /* inizio sezione potrebbero interessarti */
