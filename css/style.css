@@ -40,6 +40,7 @@ h1 {
 
 /* inizio tabella */
 table {
+    border-collapse: collapse;
     width: 100%;
     text-align: left;
 }
